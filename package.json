@@ -1,0 +1,9 @@
+{
+  "name": "tailwindcss-tt-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
